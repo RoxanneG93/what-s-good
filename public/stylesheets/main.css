@@ -1,0 +1,61 @@
+body {
+	background-color: #fcf6f4;
+	font-family: 'Rubik', sans-serif;
+}
+
+.jumbotron {
+	background-color: #ffd084;
+}
+
+h1 {
+	font-family: 'Lobster', cursive;
+}
+
+nav {
+	background-color: #d1321d!important;
+}	
+
+.navbar-brand {
+	font-family: 'Lobster', cursive;
+	font-size: 25px;
+}
+
+nav a  {
+	color: white!important;
+	font-size: 18px;
+}
+
+
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+
+#delete-form {
+    display: inline;
+}
+
+#button {
+	background-color: #d1321d!important;
+	border: #d1321d!important;
+}
+
+#button:hover {
+	background-color: #a0291c!important;
+}
+
+/*#addButton {
+	background-color: #d1321d!important;
+	border: #d1321d!important;
+}
+
+#addButton:hover {
+	background-color: #a0291c!important;
+}*/
