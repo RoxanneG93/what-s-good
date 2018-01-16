@@ -82,3 +82,6 @@ router.delete("/:comment_id", middleware.checkCommentOwnership, function(req, re
 });
 
 module.exports = router;
+
+
+// Wingstop Restaurants, Inc. is a chain of nostalgic, aviation-themed restaurants where the sole focus is on chicken wings. Wingstop locations are decorated following a 1930s and 1940s "pre-jet" aviation theme
